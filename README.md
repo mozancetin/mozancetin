@@ -16,13 +16,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 
 <a href="https://github.com/mozancetin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozancetin&theme=dark&hide_langs_below=1" />
-</a>
-<br>
-
-<a href="https://github.com/mozancetin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mozancetin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
+
+<a href="https://github.com/mozancetin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozancetin&theme=dark&hide_langs_below=1" />
+</a>
+
 <br>
 <a href="https://github.com/mozancetin/Selenium-Instagram-Unfollow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Selenium-Instagram-Unfollow&theme=dark" />
