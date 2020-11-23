@@ -23,9 +23,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozancetin&theme=dark&hide_langs_below=1" />
 </a>
 
-<br>
 <hr>
-<br>
+
 <a href="https://github.com/mozancetin/Selenium-Instagram-Unfollow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Selenium-Instagram-Unfollow&theme=dark" />
 </a>
