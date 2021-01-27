@@ -32,3 +32,7 @@
 <a href="https://github.com/mozancetin/LoL-Match-Accepter-and-Lane-Picker-Bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=LoL-Match-Accepter-and-Lane-Picker-Bot&theme=dark" />
 </a>
+
+<a href="https://github.com/mozancetin/Ozybo-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Ozybo-Bot&theme=dark" />
+</a>
