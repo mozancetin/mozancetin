@@ -36,3 +36,7 @@
 <a href="https://github.com/mozancetin/Ozybo-Bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Ozybo-Bot&theme=dark" />
 </a>
+
+<a href="https://github.com/mozancetin/Image-to-ASCII-Art">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Image-to-ASCII-Art&theme=dark" />
+</a>
