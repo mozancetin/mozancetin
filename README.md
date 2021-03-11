@@ -28,8 +28,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Selenium-Instagram-Unfollow&theme=dark" />
 </a>
 
-<a href="https://github.com/mozancetin/LoL-Match-Accepter-and-Lane-Picker-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=LoL-Match-Accepter-and-Lane-Picker-Bot&theme=dark" />
+<a href="https://github.com/mozancetin/PyPassKeeper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=PyPassKeeper&theme=dark" />
 </a>
 
 <a href="https://github.com/mozancetin/Ozybo-Bot">
