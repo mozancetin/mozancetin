@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning about Unity.
 - 💬 Ask me about Python.
-- 📫 How to reach me: [Twitter - @realozybo](https://twitter.com/realozybo) , [Youtube - @Mustafa Ozan Çetin](https://www.youtube.com/channel/UCxKyH8_uxA7XXHI5qW_qafA?)
 - ⚡ Fun fact: I spend almost 8 hours listening songs everyday.
 
 **Languages and Tools:**  
