@@ -39,3 +39,12 @@
 <a href="https://github.com/mozancetin/Image-to-ASCII-Art">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Image-to-ASCII-Art&theme=dark" />
 </a>
+
+<br>
+<br>
+<br>
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/mozancetin/count.svg" />
+</p>
