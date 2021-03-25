@@ -16,29 +16,31 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 <a href="https://github.com/mozancetin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mozancetin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mozancetin&&show_icons=true&theme=radical" />
 </a>
 
+<!-- title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 -->
+
 <a href="https://github.com/mozancetin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozancetin&theme=dark&hide_langs_below=0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozancetin&theme=radical&hide_langs_below=0" />
 </a>
 
 <hr>
 
 <a href="https://github.com/mozancetin/Selenium-Instagram-Unfollow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Selenium-Instagram-Unfollow&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Selenium-Instagram-Unfollow&theme=radical" />
 </a>
 
 <a href="https://github.com/mozancetin/PyPassKeeper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=PyPassKeeper&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=PyPassKeeper&theme=radical" />
 </a>
 
 <a href="https://github.com/mozancetin/Ozybo-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Ozybo-Bot&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Ozybo-Bot&theme=radical" />
 </a>
 
 <a href="https://github.com/mozancetin/Image-to-ASCII-Art">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Image-to-ASCII-Art&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Image-to-ASCII-Art&theme=radical" />
 </a>
 
 <br>
