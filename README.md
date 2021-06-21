@@ -46,6 +46,14 @@
 <br>
 <br>
 <br>
+<h1> My Links </h1>
+
+- [Kaggle](https://www.kaggle.com/mozancetin)
+- [LinkedIn](https://www.linkedin.com/in/mustafa-ozan-%C3%A7etin-34a549212/)
+
+<br>
+<br>
+<br>
 
 <p align="center"> 
   Visitors count<br>
