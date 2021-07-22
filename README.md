@@ -27,16 +27,16 @@
 
 <hr>
 
+<a href="https://github.com/mozancetin/SQLite-Image-Handler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=SQLite-Image-Handler&theme=radical" />
+</a>
+
 <a href="https://github.com/mozancetin/Selenium-Instagram-Unfollow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Selenium-Instagram-Unfollow&theme=radical" />
 </a>
 
 <a href="https://github.com/mozancetin/PyPassKeeper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=PyPassKeeper&theme=radical" />
-</a>
-
-<a href="https://github.com/mozancetin/Ozybo-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Ozybo-Bot&theme=radical" />
 </a>
 
 <a href="https://github.com/mozancetin/Image-to-ASCII-Art">
