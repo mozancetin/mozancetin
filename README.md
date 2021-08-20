@@ -1,6 +1,6 @@
 ### Hi there, I'm Mustafa Ozan Çetin! 👋
 
-- 🌱 I’m currently learning about AI.
+<!-- 🌱 I’m currently learning about AI. -->
 - 💬 Ask me about Python.
 - ⚡ Fun fact: I spend almost 8 hours listening songs everyday.
 
