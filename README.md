@@ -59,3 +59,10 @@
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/mozancetin/count.svg" />
 </p>
+
+<br><br>
+
+<p align="center">
+  CodeWars
+  <img src="https://www.codewars.com/users/mozancetin/badges/large" />
+</p>
