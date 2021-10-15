@@ -63,7 +63,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.codewars.com/users/mozancetin">
+  <a href="https://www.codewars.com/users/mozancetin" target="_blank">
     <img align="center" src="https://www.codewars.com/users/mozancetin/badges/large" />
   </a>
 </p>
