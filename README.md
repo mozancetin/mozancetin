@@ -62,6 +62,8 @@
 
 <br>
 
-<a align="center" href="https://www.codewars.com/users/mozancetin">
-  <img align="center" src="https://www.codewars.com/users/mozancetin/badges/large" />
-</a>
+<p align="center">
+  <a href="https://www.codewars.com/users/mozancetin">
+    <img align="center" src="https://www.codewars.com/users/mozancetin/badges/large" />
+  </a>
+</p>
