@@ -56,13 +56,13 @@
 <br>
 
 <p align="center"> 
-  Visitors count<br>
+  Visitors Count<br>
   <img src="https://profile-counter.glitch.me/mozancetin/count.svg" />
 </p>
 
 <br><br>
 
 <p align="center">
-  CodeWars
+  CodeWars<br>
   <img src="https://www.codewars.com/users/mozancetin/badges/large" />
 </p>
