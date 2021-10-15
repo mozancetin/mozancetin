@@ -60,7 +60,7 @@
   <img src="https://profile-counter.glitch.me/mozancetin/count.svg" />
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
   CodeWars<br>
