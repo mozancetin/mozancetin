@@ -49,7 +49,7 @@
 <h1> My Links </h1>
 
 - [Kaggle](https://www.kaggle.com/mozancetin)
-- [LinkedIn](www.linkedin.com/in/mustafaozancetin)
+- [LinkedIn](https://www.linkedin.com/in/mustafaozancetin/)
 
 <br>
 <br>
