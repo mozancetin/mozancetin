@@ -28,10 +28,6 @@
 <hr>
 <h3> Extra Pins </h3>
 
-<a href="https://github.com/mozancetin/JPGInjector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=JPGInjector&theme=radical" />
-</a>
-
 <a href="https://github.com/mozancetin/HistoryFetcher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=HistoryFetcher&theme=radical" />
 </a>
@@ -40,9 +36,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Staj-I&theme=radical" />
 </a>
 
+<a href="https://github.com/mozancetin/JPGInjector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=JPGInjector&theme=radical" />
+</a>
+
 <a href="https://github.com/mozancetin/Python-Dataframe-Editor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Python-Dataframe-Editor&theme=radical" />
 </a>
+
+
+
 
 <br>
 <br>
