@@ -26,27 +26,28 @@
 </a>
 
 <hr>
+<h3> Extra Pins </h3>
 
-<a href="https://github.com/mozancetin/SQLite-Image-Handler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=SQLite-Image-Handler&theme=radical" />
+<a href="https://github.com/mozancetin/JPGInjector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=JPGInjector&theme=radical" />
 </a>
 
-<a href="https://github.com/mozancetin/Selenium-Instagram-Unfollow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Selenium-Instagram-Unfollow&theme=radical" />
+<a href="https://github.com/mozancetin/HistoryFetcher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=HistoryFetcher&theme=radical" />
 </a>
 
-<a href="https://github.com/mozancetin/PyPassKeeper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=PyPassKeeper&theme=radical" />
+<a href="https://github.com/mozancetin/Staj-I">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Staj-I&theme=radical" />
 </a>
 
-<a href="https://github.com/mozancetin/Image-to-ASCII-Art">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Image-to-ASCII-Art&theme=radical" />
+<a href="https://github.com/mozancetin/Python-Dataframe-Editor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Python-Dataframe-Editor&theme=radical" />
 </a>
 
 <br>
 <br>
 <br>
-<h1> My Links </h1>
+<h1> Links </h1>
 
 - [Kaggle](https://www.kaggle.com/mozancetin)
 - [LinkedIn](https://www.linkedin.com/in/mustafaozancetin/)
