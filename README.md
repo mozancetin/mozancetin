@@ -44,9 +44,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mozancetin&repo=Python-Dataframe-Editor&theme=radical" />
 </a>
 
-
-
-
 <br>
 <br>
 <br>
